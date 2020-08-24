@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![alt text](https://i.ibb.co/Bj11kbJ/bloc-pattern.jpg?sanitize=true&raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
